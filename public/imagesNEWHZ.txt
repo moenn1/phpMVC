@@ -1,0 +1,18 @@
+Backend: 
+Super admin (secretaire) : delete add modify professeurs
+Professeurs: add delete modify exams via form with level/subject etc.
+All forms submitted by profs have to be accepted by admin first.
+On dashboard of superadmin nbr of profs etc
+On dashboard of prof nbr of posts, posts refusé etc
+
+Frontend:
+Dropdown menu in navbar
+Resize logo
+No home button; logo href home
+who are we
+dark and light mode DONE
+Langues
+Color for every class?
+Add programs? => superadmin via dashboard
+Contact us => email form
+

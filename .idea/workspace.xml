@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64e6b656-98d7-4d7b-b003-47b7cfe5b2fc" name="Changes" comment="feezf">
+      <change afterPath="$PROJECT_DIR$/app/views/inc/dashboardFooter2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/college1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/college2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/college3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/lycee2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/lycee3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Pages.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Pages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Posts.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Posts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Users.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/subjectContent/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/subjectContent/RomanToInt.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/subjectContent/RuneWild.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/inc/dashboardFooter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/inc/dashboardFooter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/inc/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/inc/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/inc/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/inc/navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/college.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/lycee1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/lesson.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/lesson.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/lycee.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/posts/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/posts/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/posts/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/posts/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/posts/indexAdmin.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/posts/indexAdmin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/posts/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/posts/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/users/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/users/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/users/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mohamed &lt;mohamed.enn&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H3gmPNBkVGBHSmjloaSOQ4K3Nh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/laragon/www/clubData",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\newHZ\app\views\posts" />
+      <recent name="C:\laragon\www\newHZ\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\newHZ\app\views\posts" />
+      <recent name="C:\laragon\www\newHZ\app\views\users" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64e6b656-98d7-4d7b-b003-47b7cfe5b2fc" name="Changes" comment="" />
+      <created>1667519340144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667519340144</updated>
+      <workItem from="1667519341610" duration="738000" />
+      <workItem from="1667598862894" duration="2001000" />
+      <workItem from="1667605443042" duration="892000" />
+      <workItem from="1667620888445" duration="3580000" />
+      <workItem from="1667696618956" duration="476000" />
+      <workItem from="1667755597191" duration="1002000" />
+      <workItem from="1667781468491" duration="99000" />
+      <workItem from="1667848550140" duration="676000" />
+      <workItem from="1667850860645" duration="5000" />
+      <workItem from="1667855626644" duration="2004000" />
+      <workItem from="1667875253319" duration="1244000" />
+      <workItem from="1667880589706" duration="416000" />
+      <workItem from="1667883728478" duration="41000" />
+      <workItem from="1667922042252" duration="7296000" />
+      <workItem from="1667931316688" duration="4613000" />
+      <workItem from="1668003928267" duration="598000" />
+      <workItem from="1668006828696" duration="92000" />
+      <workItem from="1668007599572" duration="5299000" />
+      <workItem from="1668043968791" duration="3372000" />
+      <workItem from="1668052838753" duration="1287000" />
+      <workItem from="1668056795802" duration="34000" />
+      <workItem from="1668057502715" duration="299000" />
+      <workItem from="1668170840220" duration="363000" />
+      <workItem from="1668300665170" duration="1429000" />
+      <workItem from="1668437785869" duration="1114000" />
+      <workItem from="1668438925387" duration="8330000" />
+      <workItem from="1668464200626" duration="2715000" />
+      <workItem from="1668467498036" duration="2658000" />
+      <workItem from="1668524119061" duration="10000" />
+      <workItem from="1669092297245" duration="1159000" />
+      <workItem from="1669624981690" duration="20000" />
+    </task>
+    <task id="LOCAL-00001" summary="derniers modifications">
+      <created>1667617848388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667617848388</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final">
+      <created>1667696856042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667696856042</updated>
+    </task>
+    <task id="LOCAL-00003" summary="final">
+      <created>1667883762064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667883762064</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feezf">
+      <created>1667924856037</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667924856037</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feezf">
+      <created>1667928056267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667928056267</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feezf">
+      <created>1667928616487</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667928616487</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feezf">
+      <created>1667928769211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667928769211</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feezf">
+      <created>1667931346310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667931346310</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feezf">
+      <created>1667935972238</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667935972238</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="derniers modifications" />
+    <MESSAGE value="final" />
+    <MESSAGE value="feezf" />
+    <option name="LAST_COMMIT_MESSAGE" value="feezf" />
+  </component>
+</project>
